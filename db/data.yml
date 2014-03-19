@@ -1,0 +1,11 @@
+
+---
+blogs:
+  columns:
+  - id
+  - member_id
+  - subject
+  - content
+  - created_at
+  - updated_at
+  records: 

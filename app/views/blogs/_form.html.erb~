@@ -1,0 +1,50 @@
+<div id="box">
+	<h3 id="adduser"><%=  params[:controller]+"/"+params[:action]  == "blogs/new" ? "Add " : "Edit "  %>Blog</h3></h3>
+
+
+<%= form_for @blog, html: {id: "form"}   do |f| %>
+  <%  if @blog.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@blog.errors.count, "error") %> prohibited this blog from being saved:</h2>
+
+      <ul>
+      <% @blog.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+
+		<fieldset id="address">
+			<%= f.label :subject %>
+			<%= f.text_field :subject %>
+			<% if @blog.errors[:subject].any? %>
+			<label>&nbsp;</label><%= @blog.errors[:subject].first %>
+			<% end %>
+			<br />
+
+			<%= f.label :member_id, "Author Name"  %>
+			<%#= f.text_field :member_id %>
+
+			<%= f.select :member_id, Member.all.collect {|m| [m.username, m.id]} %>
+			<% if @blog.errors[:member_id].any? %>
+			<label>&nbsp;</label><%= @blog.errors[:member_id].first %>
+			<% end %>
+			<br />
+
+			<%= f.label :content %>
+			<%= f.text_area :content %>
+			<% if @blog.errors[:content].any? %>
+			<label>&nbsp;</label><%= @blog.errors[:content].first %>
+			<% end %>
+			<br />
+
+			<label>&nbsp;</label>
+			<div class="actions"> <%= f.submit %>
+			<%= link_to 'Back', members_path %>
+ 			</div>
+
+		</fieldset>       
+<% end %>
+</div>

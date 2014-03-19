@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title><%= t("admin.meta_title")  %></title>
+		<%#= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+		<%= stylesheet_link_tag "frontend/memberlogin" %>
+
+
+		<%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+
+
+		<%= stylesheet_link_tag "bootstrap.min" %>
+		<%= stylesheet_link_tag "admin/theme" %>
+		<%= stylesheet_link_tag "admin/style" %>
+
+<!--		<%#= stylesheet_link_tag "front" %> -->
+
+		<%= csrf_meta_tags %>
+</head>
+<body>
+
+
+<!-- <#% if is_admin_application? %>  -->
+<%= render "layouts/admin" %>
+<!-- <#% end  %>  -->
+
+
+
+
+<!-- <#%= render "layouts/front" %>  -->
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+
+alert(33333);
+
+
+jQuery(document).ready(function($){
+
+  $('#myModal').modal('options')
+
+
+  var body = $( 'show' );
+});

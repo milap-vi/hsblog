@@ -1,0 +1,79 @@
+
+
+<%= @member.errors.inspect %>
+
+<div id="box">
+	<h3 id="adduser">
+	<%=  params[:controller]+"/"+params[:action]  == "members/new" ? "Add " : "Edit "  %>User</h3>
+	<%#######= form_for @member, url: {action: "update"}, html: {id: "form"}  do |m| %>
+	<%= form_for @member, html: {id: "form"}   do |m| %>
+		<fieldset id="personal">
+			<legend>PERSONAL INFORMATION</legend>
+				<%= m.label  :first_name, :id => "lblFirstName" %>
+				<%= m.text_field :first_name %>
+				<% if @member.errors[:first_name].any? %>
+					<label>&nbsp;</label><%= @member.errors[:first_name].first %>
+				<% end %>
+				<br />
+
+				<label for="lastname">Last Name </label> 
+				<%= m.text_field :last_name %>
+				<% if @member.errors[:last_name].any? %>
+					<label>&nbsp;</label><%= @member.errors[:last_name].first %>
+				<% end %>
+				<br />
+
+				<%= m.label :email %>
+				<%= m.text_field :email %>
+				<% if @member.errors[:email].any? %>
+			 		<label>&nbsp;</label><%= @member.errors[:email].first %>
+		       	<% end %>
+                <br />
+
+				<%= m.label :image %>
+				<% avatar_url = "#{@member.image}" %>
+				<%= image_tag(avatar_url)  %><br/>
+				<%= m.file_field :image %>
+				<% if @member.errors[:image].any? %>
+			 		<label>&nbsp;</label><%= @member.errors[:image].first %>
+		       	<% end %>
+                <br />
+
+
+		</fieldset>
+		<fieldset id="address">
+			<legend>Credential Informations</legend>
+				<%= m.label :username %>
+				<%= m.text_field :username %>
+				<% if @member.errors[:username].any? %>
+			 		<label>&nbsp;</label><%= @member.errors[:username].first %>
+		       	<% end %>
+                <br />
+
+			<%  if( params[:controller]+'/'+params[:action] == "members/new" || params[:controller]+'/'+params[:action] == "members/create") %>
+				<%= m.label :password %>
+			 	<%= m.password_field :password %>
+				<% if @member.errors[:password].any? %>
+			 		<label>&nbsp;</label><%= @member.errors[:password].first %>
+		       	<% end %>
+                <br />                        
+				
+				<%= m.label :password_confirmation %>
+			 	<%= m.password_field :password_confirmation %>
+				<% if @member.errors[:password_confirmation].any? %>
+			 		<label>&nbsp;</label><%= @member.errors[:password_confirmation].first %>
+		       	<% end %>
+                <br />                        
+			<% end %>
+				<label>&nbsp;</label>
+				<%= m.submit %>
+				<%= link_to 'Back', members_path %>
+		</fieldset>                     
+	<% end %>
+	</form>
+</div>
+
+
+
+
+

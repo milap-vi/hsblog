@@ -1,0 +1,9 @@
+class CommonFunction
+#class CommonFunction < ApplicationController
+
+	def admin_login_valid(parameter)
+		return 'Hi'
+	end
+
+end
+

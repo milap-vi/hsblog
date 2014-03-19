@@ -1,0 +1,15 @@
+
+<div id="box">
+	<h3 id="adminLogin">
+	<%=  "Administrator Login"  %></h3>
+		<div id="divIdAdminLogin">
+			<%= render 'login' %>
+		</div>	
+
+
+</div>
+
+
+
+
+

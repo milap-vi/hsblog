@@ -1,0 +1,924 @@
+# Logfile created on 2014-02-06 11:11:08 +0530 by logger.rb/44203
+I, [2014-02-06T11:11:08.235993 #5220]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-06T11:11:08.236684 #5220]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-06T11:11:08.513584 #5220]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-06T11:11:09.442098 #5220]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-06T11:11:09.442835 #5220]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-06T11:11:09.443450 #5220]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-06T11:11:09.444058 #5220]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-06T11:11:09.444588 #5220]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-06T11:11:09.445119 #5220]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-06T11:11:09.445735 #5220]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-06T11:11:09.446283 #5220]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-06T11:11:09.446812 #5220]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-06T11:11:09.447463 #5220]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-06T11:11:09.448038 #5220]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-06T11:11:09.448605 #5220]  INFO -- : 0:  polyglot (0.3.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-02-06T11:11:09.449184 #5220]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-06T11:11:09.449789 #5220]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-06T11:11:09.450372 #5220]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-06T11:11:09.450886 #5220]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-06T11:11:09.451439 #5220]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-06T11:11:12.700520 #5220]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-06T11:11:12.701233 #5220]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-06T11:11:12.701843 #5220]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-06T11:11:14.584826 #5220]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-06T11:11:14.585509 #5220]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-06T11:11:14.586020 #5220]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-06T11:11:14.586500 #5220]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-06T11:11:14.586977 #5220]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-06T11:11:14.587547 #5220]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-06T11:11:14.588075 #5220]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-06T11:11:14.588577 #5220]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-06T11:11:16.205404 #5220]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-06T11:11:20.703045 #5220]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-06T11:11:27.184833 #5220]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-06T11:11:27.185680 #5220]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-06T11:11:27.186270 #5220]  INFO -- : 0:  sprockets (2.10.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.10.1.gemspec
+I, [2014-02-06T11:11:27.186926 #5220]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-06T11:11:27.187504 #5220]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-06T11:11:35.071425 #5220]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-02-06T11:11:38.586405 #5220]  INFO -- : 0:  sass (3.2.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-3.2.14.gemspec
+I, [2014-02-06T11:11:38.587067 #5220]  INFO -- : 0:  sass-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-02-06T11:11:40.332660 #5220]  INFO -- : 0:  sdoc (0.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-02-06T11:11:40.333364 #5220]  INFO -- : 0:  sqlite3 (1.3.8) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-02-06T11:11:41.117784 #5220]  INFO -- : 0:  turbolinks (2.2.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.1.gemspec
+I, [2014-02-06T11:11:41.118469 #5220]  INFO -- : 0:  uglifier (2.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-02-14T13:13:27.588102 #8459]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-14T13:13:27.611364 #8459]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-14T13:13:28.062930 #8459]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-14T13:13:28.063624 #8459]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-14T13:13:28.064135 #8459]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-14T13:13:28.064625 #8459]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-14T13:13:28.065151 #8459]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-14T13:13:28.065658 #8459]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-14T13:13:28.066166 #8459]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-14T13:13:28.066658 #8459]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-14T13:13:28.067143 #8459]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-14T13:13:28.067640 #8459]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-14T13:13:28.068127 #8459]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-14T13:13:28.068655 #8459]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-14T13:13:28.069275 #8459]  INFO -- : 0:  polyglot (0.3.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-02-14T13:13:28.069845 #8459]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-14T13:13:28.070403 #8459]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-14T13:13:28.070931 #8459]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-14T13:13:28.071481 #8459]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-14T13:13:28.072048 #8459]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-14T13:13:28.072619 #8459]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-14T13:13:28.073262 #8459]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-14T13:13:35.869023 #8459]  INFO -- : 0:  bcrypt-ruby (3.1.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/bcrypt-ruby-3.1.2.gemspec
+I, [2014-02-14T13:13:35.869815 #8459]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-14T13:13:35.870405 #8459]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-14T13:13:35.870959 #8459]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-14T13:13:35.871500 #8459]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-14T13:13:35.872031 #8459]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-14T13:13:35.872533 #8459]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-14T13:13:35.873050 #8459]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-14T13:13:35.873581 #8459]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-14T13:13:35.874094 #8459]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-14T13:13:35.874605 #8459]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-14T13:13:38.005758 #8459]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-14T13:13:38.006676 #8459]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-14T13:13:38.007339 #8459]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-14T13:13:38.007949 #8459]  INFO -- : 0:  sprockets (2.10.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.10.1.gemspec
+I, [2014-02-14T13:13:38.008591 #8459]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-14T13:13:38.009323 #8459]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-14T13:13:38.009954 #8459]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-02-14T13:13:38.010498 #8459]  INFO -- : 0:  sass (3.2.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-3.2.14.gemspec
+I, [2014-02-14T13:13:38.011025 #8459]  INFO -- : 0:  sass-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-02-14T13:13:38.011553 #8459]  INFO -- : 0:  sdoc (0.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-02-14T13:13:38.012062 #8459]  INFO -- : 0:  sqlite3 (1.3.8) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-02-14T13:13:38.012583 #8459]  INFO -- : 0:  turbolinks (2.2.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.1.gemspec
+I, [2014-02-14T13:13:38.013282 #8459]  INFO -- : 0:  uglifier (2.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-02-20T15:20:01.465635 #6300]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-20T15:20:01.492273 #6300]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-20T15:20:01.873893 #6300]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-20T15:20:01.874583 #6300]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-20T15:20:01.875104 #6300]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-20T15:20:01.875572 #6300]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-20T15:20:01.876049 #6300]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-20T15:20:01.876525 #6300]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-20T15:20:01.876997 #6300]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-20T15:20:01.877527 #6300]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-20T15:20:01.878032 #6300]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T15:20:01.878512 #6300]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-20T15:20:01.878967 #6300]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-20T15:20:01.879454 #6300]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-20T15:20:03.460226 #6300]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-02-20T15:20:03.460924 #6300]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-20T15:20:03.461460 #6300]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-20T15:20:03.461973 #6300]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-20T15:20:03.462461 #6300]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-20T15:20:03.462953 #6300]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-20T15:20:03.463523 #6300]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-20T15:20:03.464037 #6300]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-20T15:20:03.464557 #6300]  INFO -- : 0:  bcrypt-ruby (3.1.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/bcrypt-ruby-3.1.2.gemspec
+I, [2014-02-20T15:20:03.465045 #6300]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-20T15:20:03.465656 #6300]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-20T15:20:03.466280 #6300]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-20T15:20:03.466898 #6300]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-20T15:20:03.467421 #6300]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-20T15:20:03.467953 #6300]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-20T15:20:03.468522 #6300]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-20T15:20:03.469084 #6300]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-20T15:20:03.469684 #6300]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-20T15:20:03.470267 #6300]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-20T15:20:08.473036 #6300]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-20T15:20:08.473895 #6300]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-20T15:20:08.474510 #6300]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-20T15:20:09.810509 #6300]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-02-20T15:20:09.811293 #6300]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-20T15:20:09.811928 #6300]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-20T15:20:09.812560 #6300]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-02-20T15:20:09.813199 #6300]  INFO -- : 0:  sass (3.2.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-3.2.14.gemspec
+I, [2014-02-20T15:20:09.813869 #6300]  INFO -- : 0:  sass-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-02-20T15:20:09.814488 #6300]  INFO -- : 0:  sdoc (0.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-02-20T15:20:09.815098 #6300]  INFO -- : 0:  sqlite3 (1.3.8) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-02-20T15:20:09.815726 #6300]  INFO -- : 0:  turbolinks (2.2.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.1.gemspec
+I, [2014-02-20T15:20:09.816341 #6300]  INFO -- : 0:  uglifier (2.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-02-20T15:36:17.931734 #6570]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-20T15:36:17.932792 #6570]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-20T15:36:18.019107 #6570]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-20T15:36:18.019860 #6570]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-20T15:36:18.020435 #6570]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-20T15:36:18.020968 #6570]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-20T15:36:18.021526 #6570]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-20T15:36:18.022086 #6570]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-20T15:36:18.022621 #6570]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-20T15:36:18.023149 #6570]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-20T15:36:18.023654 #6570]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T15:36:18.024187 #6570]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-20T15:36:18.024707 #6570]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-20T15:36:18.025242 #6570]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-20T15:36:18.025828 #6570]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-02-20T15:36:18.026368 #6570]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-20T15:36:18.026897 #6570]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-20T15:36:18.027419 #6570]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-20T15:36:18.027927 #6570]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-20T15:36:18.028451 #6570]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-20T15:36:18.028987 #6570]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-20T15:36:18.029559 #6570]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-20T15:36:18.030124 #6570]  INFO -- : 0:  bcrypt-ruby (3.1.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/bcrypt-ruby-3.1.2.gemspec
+I, [2014-02-20T15:36:18.030674 #6570]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-20T15:36:18.031274 #6570]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-20T15:36:18.031901 #6570]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-20T15:36:18.032478 #6570]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-20T15:36:18.033061 #6570]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-20T15:36:18.033648 #6570]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-20T15:36:18.034240 #6570]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-20T15:36:18.034771 #6570]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-20T15:36:18.035326 #6570]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-20T15:36:18.035892 #6570]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-20T15:36:20.032332 #6570]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-20T15:36:20.033196 #6570]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-20T15:36:20.033851 #6570]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-20T15:36:20.034466 #6570]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-02-20T15:36:20.035030 #6570]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-20T15:36:20.035573 #6570]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-20T15:36:20.036159 #6570]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-02-20T15:36:20.036752 #6570]  INFO -- : 0:  sass (3.2.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-3.2.14.gemspec
+I, [2014-02-20T15:36:20.037336 #6570]  INFO -- : 0:  sass-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-02-20T15:36:20.037933 #6570]  INFO -- : 0:  sdoc (0.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-02-20T15:36:20.038511 #6570]  INFO -- : 0:  sqlite3 (1.3.8) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-02-20T15:36:20.039114 #6570]  INFO -- : 0:  turbolinks (2.2.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.1.gemspec
+I, [2014-02-20T15:36:20.039688 #6570]  INFO -- : 0:  uglifier (2.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-02-20T15:36:21.716891 #6570]  INFO -- : 0:  yaml_db (0.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/yaml_db-0.2.3.gemspec
+I, [2014-02-20T15:51:36.353588 #6796]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-20T15:51:36.354391 #6796]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-20T15:51:36.472206 #6796]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-20T15:51:36.472915 #6796]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-20T15:51:36.473494 #6796]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-20T15:51:36.473987 #6796]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-20T15:51:36.474491 #6796]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-20T15:51:36.475067 #6796]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-20T15:51:36.475584 #6796]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-20T15:51:36.476070 #6796]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-20T15:51:36.476544 #6796]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T15:51:36.477060 #6796]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-20T15:51:36.477606 #6796]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-20T15:51:36.478089 #6796]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-20T15:51:36.478623 #6796]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-02-20T15:51:36.479123 #6796]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-20T15:51:36.479600 #6796]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-20T15:51:36.480092 #6796]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-20T15:51:36.480585 #6796]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-20T15:51:36.481089 #6796]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-20T15:51:36.481675 #6796]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-20T15:51:36.482290 #6796]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-20T15:51:36.482846 #6796]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-20T15:51:36.483412 #6796]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-20T15:51:36.484059 #6796]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-20T15:51:36.484611 #6796]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-20T15:51:36.485158 #6796]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-20T15:51:36.485745 #6796]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-20T15:51:36.486328 #6796]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-20T15:51:36.486932 #6796]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-20T15:51:36.487470 #6796]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-20T15:51:36.488044 #6796]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-20T15:51:39.151926 #6796]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-20T15:51:39.152745 #6796]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-20T15:51:39.153405 #6796]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-20T15:51:39.154012 #6796]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-02-20T15:51:39.154648 #6796]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-20T15:51:39.155261 #6796]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-20T15:51:39.155911 #6796]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-02-20T15:51:39.156519 #6796]  INFO -- : 0:  sass (3.2.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-3.2.14.gemspec
+I, [2014-02-20T15:51:39.157106 #6796]  INFO -- : 0:  sass-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-02-20T15:51:39.157761 #6796]  INFO -- : 0:  sdoc (0.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-02-20T15:51:39.158350 #6796]  INFO -- : 0:  sqlite3 (1.3.8) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-02-20T15:51:39.158961 #6796]  INFO -- : 0:  turbolinks (2.2.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.1.gemspec
+I, [2014-02-20T15:51:39.159550 #6796]  INFO -- : 0:  uglifier (2.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-02-20T17:38:11.250828 #7762]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-20T17:38:11.281105 #7762]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-20T17:38:11.728244 #7762]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-20T17:38:11.728952 #7762]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-20T17:38:11.729553 #7762]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-20T17:38:11.730070 #7762]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-20T17:38:11.730546 #7762]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-20T17:38:11.731022 #7762]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-20T17:38:11.731488 #7762]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-20T17:38:11.731978 #7762]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-20T17:38:11.732466 #7762]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T17:38:11.732955 #7762]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-20T17:38:11.733506 #7762]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-20T17:38:11.733988 #7762]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-20T17:38:11.734474 #7762]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-02-20T17:38:11.734963 #7762]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-20T17:38:11.735440 #7762]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-20T17:38:11.735931 #7762]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-20T17:38:11.736444 #7762]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-20T17:38:11.736949 #7762]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-20T17:38:11.737529 #7762]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-20T17:38:11.738130 #7762]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-20T17:38:11.738699 #7762]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-20T17:38:17.816136 #7762]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-20T17:38:17.816977 #7762]  INFO -- : 0:  carrierwave (0.9.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/carrierwave-0.9.0.gemspec
+I, [2014-02-20T17:38:17.817647 #7762]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-20T17:38:17.818223 #7762]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-20T17:38:17.818766 #7762]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-20T17:38:17.819315 #7762]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-20T17:38:17.819877 #7762]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-20T17:38:17.820432 #7762]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-20T17:38:17.820980 #7762]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-20T17:38:17.821541 #7762]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-20T17:38:17.822120 #7762]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-20T17:38:19.001451 #7762]  INFO -- : 0:  subexec (0.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-02-20T17:38:19.744020 #7762]  INFO -- : 0:  mini_magick (3.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-02-20T17:38:19.744815 #7762]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-20T17:38:19.745460 #7762]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-20T17:38:19.746093 #7762]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-02-20T17:38:19.746645 #7762]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-20T17:38:19.747263 #7762]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-20T17:38:19.747916 #7762]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+E, [2014-02-20T17:38:30.748602 #7762] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for Ruby version >= 1.8.5... yes
+checking for gcc... yes
+checking for Magick-config... no
+Can't install RMagick 2.13.2. Can't find Magick-config in /home/milap/.rvm/gems/ruby-2.1.0/bin:/home/milap/.rvm/gems/ruby-2.1.0@global/bin:/home/milap/.rvm/rubies/ruby-2.1.0/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/milap/.rvm/bin
+
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/milap/.rvm/gems/ruby-2.1.0/gems/rmagick-2.13.2 for inspection.
+Results logged to /home/milap/.rvm/gems/ruby-2.1.0/extensions/x86_64-linux/2.1.0/rmagick-2.13.2/gem_make.out
+
+/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:336:in `update'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-02-20T17:41:17.788611 #7850]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-20T17:41:17.816452 #7850]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-20T17:41:18.064733 #7850]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-20T17:41:18.065475 #7850]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-20T17:41:18.066002 #7850]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-20T17:41:18.066495 #7850]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-20T17:41:18.067015 #7850]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-20T17:41:18.067511 #7850]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-20T17:41:18.067999 #7850]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-20T17:41:18.068493 #7850]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-20T17:41:18.068984 #7850]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T17:41:18.069493 #7850]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-20T17:41:18.070000 #7850]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-20T17:41:18.070492 #7850]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-20T17:41:18.070984 #7850]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-02-20T17:41:18.071484 #7850]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-20T17:41:18.071978 #7850]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-20T17:41:18.072491 #7850]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-20T17:41:18.072972 #7850]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-20T17:41:18.073578 #7850]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-20T17:41:18.074190 #7850]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-20T17:41:18.074791 #7850]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-20T17:41:18.075346 #7850]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-20T17:41:22.567850 #7850]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-20T17:41:22.568685 #7850]  INFO -- : 0:  carrierwave (0.9.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/carrierwave-0.9.0.gemspec
+I, [2014-02-20T17:41:22.569367 #7850]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-20T17:41:22.569948 #7850]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-20T17:41:22.570513 #7850]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-20T17:41:22.571064 #7850]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-20T17:41:22.571617 #7850]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-20T17:41:22.572159 #7850]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-20T17:41:22.572684 #7850]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-20T17:41:22.573221 #7850]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-20T17:41:22.573822 #7850]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-20T17:41:22.574387 #7850]  INFO -- : 0:  subexec (0.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-02-20T17:41:22.574930 #7850]  INFO -- : 0:  mini_magick (3.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-02-20T17:41:22.575510 #7850]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-20T17:41:22.576086 #7850]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-20T17:41:22.576664 #7850]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-02-20T17:41:22.577233 #7850]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-20T17:41:22.577793 #7850]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-20T17:41:22.578477 #7850]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+E, [2014-02-20T17:41:23.049034 #7850] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for Ruby version >= 1.8.5... yes
+checking for gcc... yes
+checking for Magick-config... no
+Can't install RMagick 2.13.2. Can't find Magick-config in /home/milap/.rvm/gems/ruby-2.1.0/bin:/home/milap/.rvm/gems/ruby-2.1.0@global/bin:/home/milap/.rvm/rubies/ruby-2.1.0/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/milap/.rvm/bin
+
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/milap/.rvm/gems/ruby-2.1.0/gems/rmagick-2.13.2 for inspection.
+Results logged to /home/milap/.rvm/gems/ruby-2.1.0/extensions/x86_64-linux/2.1.0/rmagick-2.13.2/gem_make.out
+
+/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:336:in `update'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-02-20T17:42:34.994358 #7908]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-20T17:42:34.995751 #7908]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-20T17:42:35.090331 #7908]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-20T17:42:35.091112 #7908]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-20T17:42:35.091703 #7908]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-20T17:42:35.092279 #7908]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-20T17:42:35.092878 #7908]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-20T17:42:35.093501 #7908]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-20T17:42:35.094092 #7908]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-20T17:42:35.094677 #7908]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-20T17:42:35.095253 #7908]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T17:42:35.095859 #7908]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-20T17:42:35.096450 #7908]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-20T17:42:35.097054 #7908]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-20T17:42:35.097704 #7908]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-02-20T17:42:35.098308 #7908]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-20T17:42:35.098899 #7908]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-20T17:42:35.099484 #7908]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-20T17:42:35.100059 #7908]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-20T17:42:35.100656 #7908]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-20T17:42:35.101270 #7908]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-20T17:42:35.101923 #7908]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-20T17:42:35.102531 #7908]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-20T17:42:37.103021 #7908]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-20T17:42:37.103863 #7908]  INFO -- : 0:  carrierwave (0.9.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/carrierwave-0.9.0.gemspec
+I, [2014-02-20T17:42:37.104549 #7908]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-20T17:42:37.105216 #7908]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-20T17:42:37.105913 #7908]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-20T17:42:37.106461 #7908]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-20T17:42:37.107140 #7908]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-20T17:42:37.107777 #7908]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-20T17:42:37.108421 #7908]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-20T17:42:37.109025 #7908]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-20T17:42:37.109655 #7908]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-20T17:42:37.110255 #7908]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-20T17:42:37.110818 #7908]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-20T17:42:37.111386 #7908]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-02-20T17:42:37.111961 #7908]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-20T17:42:37.112521 #7908]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-20T17:42:37.113109 #7908]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-02-20T17:42:37.113840 #7908]  INFO -- : 0:  sass (3.2.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-3.2.14.gemspec
+I, [2014-02-20T17:42:37.114405 #7908]  INFO -- : 0:  sass-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-02-20T17:42:37.115008 #7908]  INFO -- : 0:  sdoc (0.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-02-20T17:42:37.115595 #7908]  INFO -- : 0:  sqlite3 (1.3.8) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-02-20T17:42:37.116426 #7908]  INFO -- : 0:  turbolinks (2.2.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.1.gemspec
+I, [2014-02-20T17:42:37.117067 #7908]  INFO -- : 0:  uglifier (2.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-02-20T17:43:56.450629 #7968]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-20T17:43:56.451379 #7968]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-20T17:43:56.550453 #7968]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-20T17:43:56.551207 #7968]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-20T17:43:56.551759 #7968]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-20T17:43:56.552286 #7968]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-20T17:43:56.552819 #7968]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-20T17:43:56.553380 #7968]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-20T17:43:56.553948 #7968]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-20T17:43:56.554503 #7968]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-20T17:43:56.555032 #7968]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T17:43:56.555594 #7968]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-20T17:43:56.556136 #7968]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-20T17:43:56.556660 #7968]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-20T17:43:56.557203 #7968]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-02-20T17:43:56.557786 #7968]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-20T17:43:56.558343 #7968]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-20T17:43:56.558905 #7968]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-20T17:43:56.559418 #7968]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-20T17:43:56.559972 #7968]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-20T17:43:56.560530 #7968]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-20T17:43:56.561076 #7968]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-20T17:43:56.561708 #7968]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-20T17:43:58.704735 #7968]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-20T17:43:58.705606 #7968]  INFO -- : 0:  carrierwave (0.9.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/carrierwave-0.9.0.gemspec
+I, [2014-02-20T17:43:58.706234 #7968]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-20T17:43:58.706787 #7968]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-20T17:43:58.707343 #7968]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-20T17:43:58.707882 #7968]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-20T17:43:58.708449 #7968]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-20T17:43:58.708970 #7968]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-20T17:43:58.709550 #7968]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-20T17:43:58.710098 #7968]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-20T17:43:58.710660 #7968]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-20T17:43:58.711215 #7968]  INFO -- : 0:  subexec (0.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-02-20T17:43:58.711761 #7968]  INFO -- : 0:  mini_magick (3.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-02-20T17:43:58.712341 #7968]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-20T17:43:58.712926 #7968]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-20T17:43:58.713532 #7968]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-02-20T17:43:58.714138 #7968]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-20T17:43:58.714665 #7968]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-20T17:43:58.715342 #7968]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+E, [2014-02-20T17:43:59.294722 #7968] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for Ruby version >= 1.8.5... yes
+checking for gcc... yes
+checking for Magick-config... no
+Can't install RMagick 2.13.2. Can't find Magick-config in /home/milap/.rvm/gems/ruby-2.1.0/bin:/home/milap/.rvm/gems/ruby-2.1.0@global/bin:/home/milap/.rvm/rubies/ruby-2.1.0/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/milap/.rvm/bin
+
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/milap/.rvm/gems/ruby-2.1.0/gems/rmagick-2.13.2 for inspection.
+Results logged to /home/milap/.rvm/gems/ruby-2.1.0/extensions/x86_64-linux/2.1.0/rmagick-2.13.2/gem_make.out
+
+/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:336:in `update'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-02-20T17:48:49.700967 #8210]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-20T17:48:49.733579 #8210]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-20T17:48:49.949258 #8210]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-20T17:48:49.949996 #8210]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-20T17:48:49.950538 #8210]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-20T17:48:49.951048 #8210]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-20T17:48:49.951530 #8210]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-20T17:48:49.952002 #8210]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-20T17:48:49.952487 #8210]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-20T17:48:49.952956 #8210]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-20T17:48:49.953482 #8210]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T17:48:49.953972 #8210]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-20T17:48:49.954456 #8210]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-20T17:48:49.954931 #8210]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-20T17:48:49.955426 #8210]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-02-20T17:48:49.955913 #8210]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-20T17:48:49.989429 #8210]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-20T17:48:49.990238 #8210]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-20T17:48:49.991043 #8210]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-20T17:48:49.991888 #8210]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-20T17:48:49.992721 #8210]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-20T17:48:49.993518 #8210]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-20T17:48:49.994341 #8210]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-20T17:48:54.967706 #8210]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-20T17:48:54.968516 #8210]  INFO -- : 0:  carrierwave (0.9.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/carrierwave-0.9.0.gemspec
+I, [2014-02-20T17:48:54.969121 #8210]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-20T17:48:54.969725 #8210]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-20T17:48:54.970289 #8210]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-20T17:48:54.970838 #8210]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-20T17:48:54.971364 #8210]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-20T17:48:54.971911 #8210]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-20T17:48:54.972445 #8210]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-20T17:48:54.973005 #8210]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-20T17:48:54.973627 #8210]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-20T17:48:54.974197 #8210]  INFO -- : 0:  subexec (0.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-02-20T17:48:54.974755 #8210]  INFO -- : 0:  mini_magick (3.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-02-20T17:48:54.975324 #8210]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-20T17:48:54.975839 #8210]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-20T17:48:54.976389 #8210]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-02-20T17:48:54.976931 #8210]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-20T17:48:54.977501 #8210]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-20T17:48:54.978208 #8210]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+E, [2014-02-20T17:48:55.500262 #8210] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for Ruby version >= 1.8.5... yes
+checking for gcc... yes
+checking for Magick-config... no
+Can't install RMagick 2.13.2. Can't find Magick-config in /home/milap/.rvm/gems/ruby-2.1.0/bin:/home/milap/.rvm/gems/ruby-2.1.0@global/bin:/home/milap/.rvm/rubies/ruby-2.1.0/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/milap/.rvm/bin
+
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/milap/.rvm/gems/ruby-2.1.0/gems/rmagick-2.13.2 for inspection.
+Results logged to /home/milap/.rvm/gems/ruby-2.1.0/extensions/x86_64-linux/2.1.0/rmagick-2.13.2/gem_make.out
+
+/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:336:in `update'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-02-20T17:57:05.286131 #9747]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-20T17:57:05.302837 #9747]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-20T17:57:05.428345 #9747]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-20T17:57:05.429058 #9747]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-20T17:57:05.429639 #9747]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-20T17:57:05.430140 #9747]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-20T17:57:05.430630 #9747]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-20T17:57:05.431107 #9747]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-20T17:57:05.431585 #9747]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-20T17:57:05.432068 #9747]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-20T17:57:05.432543 #9747]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T17:57:05.433044 #9747]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-20T17:57:05.433583 #9747]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-20T17:57:05.434076 #9747]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-20T17:57:05.434562 #9747]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-02-20T17:57:05.435028 #9747]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-20T17:57:05.435528 #9747]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-20T17:57:05.436016 #9747]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-20T17:57:05.436498 #9747]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-20T17:57:05.436996 #9747]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-20T17:57:05.437652 #9747]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-20T17:57:05.438228 #9747]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-20T17:57:05.438767 #9747]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-20T17:57:08.447883 #9747]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-20T17:57:08.448857 #9747]  INFO -- : 0:  carrierwave (0.9.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/carrierwave-0.9.0.gemspec
+I, [2014-02-20T17:57:08.449531 #9747]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-20T17:57:08.450190 #9747]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-20T17:57:08.450913 #9747]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-20T17:57:08.451607 #9747]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-20T17:57:08.452304 #9747]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-20T17:57:08.452975 #9747]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-20T17:57:08.453633 #9747]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-20T17:57:08.454336 #9747]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-20T17:57:08.454996 #9747]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-20T17:57:08.455617 #9747]  INFO -- : 0:  subexec (0.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-02-20T17:57:08.456204 #9747]  INFO -- : 0:  mini_magick (3.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-02-20T17:57:08.456814 #9747]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-20T17:57:08.457641 #9747]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-20T17:57:08.458320 #9747]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-02-20T17:57:08.459025 #9747]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-20T17:57:08.459639 #9747]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-20T17:57:08.460600 #9747]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+E, [2014-02-20T17:57:36.363806 #9747] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for Ruby version >= 1.8.5... yes
+extconf.rb:128:in `<main>': Use RbConfig instead of obsolete and deprecated Config.
+extconf.rb:128:in `<main>': Use RbConfig instead of obsolete and deprecated Config.
+checking for gcc... yes
+checking for Magick-config... no
+Can't install RMagick 2.13.1. Can't find Magick-config in /home/milap/.rvm/gems/ruby-2.1.0/bin:/home/milap/.rvm/gems/ruby-2.1.0@global/bin:/home/milap/.rvm/rubies/ruby-2.1.0/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/milap/.rvm/bin
+
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/milap/.rvm/gems/ruby-2.1.0/gems/rmagick-2.13.1 for inspection.
+Results logged to /home/milap/.rvm/gems/ruby-2.1.0/extensions/x86_64-linux/2.1.0/rmagick-2.13.1/gem_make.out
+
+/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-02-20T18:50:30.894744 #10434]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-20T18:50:30.935568 #10434]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-20T18:50:31.380189 #10434]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-20T18:50:31.380970 #10434]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-20T18:50:31.381626 #10434]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-20T18:50:31.382198 #10434]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-20T18:50:31.382746 #10434]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-20T18:50:31.383296 #10434]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-20T18:50:31.383833 #10434]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-20T18:50:31.384377 #10434]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-20T18:50:31.384913 #10434]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T18:50:31.385470 #10434]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-20T18:50:31.386031 #10434]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-20T18:50:31.386593 #10434]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-20T18:50:31.387157 #10434]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-02-20T18:50:31.387731 #10434]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-20T18:50:31.388311 #10434]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-20T18:50:31.388853 #10434]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-20T18:50:31.389429 #10434]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-20T18:50:31.389991 #10434]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-20T18:50:31.390547 #10434]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-20T18:50:31.391105 #10434]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-20T18:50:31.391645 #10434]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-20T18:50:37.434967 #10434]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-20T18:50:37.435998 #10434]  INFO -- : 0:  carrierwave (0.9.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/carrierwave-0.9.0.gemspec
+I, [2014-02-20T18:50:37.436686 #10434]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-20T18:50:37.437344 #10434]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-20T18:50:37.438105 #10434]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-20T18:50:37.438738 #10434]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-20T18:50:37.439373 #10434]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-20T18:50:37.440045 #10434]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-20T18:50:37.440648 #10434]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-20T18:50:37.441329 #10434]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-20T18:50:37.442020 #10434]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-20T18:50:37.442797 #10434]  INFO -- : 0:  subexec (0.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-02-20T18:50:37.443536 #10434]  INFO -- : 0:  mini_magick (3.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-02-20T18:50:37.444148 #10434]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-20T18:50:37.444869 #10434]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-20T18:50:37.445602 #10434]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-02-20T18:50:37.446350 #10434]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-20T18:50:37.447024 #10434]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-20T18:50:37.447825 #10434]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+E, [2014-02-20T18:50:38.118910 #10434] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for Ruby version >= 1.8.5... yes
+checking for gcc... yes
+checking for Magick-config... no
+Can't install RMagick 2.13.2. Can't find Magick-config in /home/milap/.rvm/gems/ruby-2.1.0/bin:/home/milap/.rvm/gems/ruby-2.1.0@global/bin:/home/milap/.rvm/rubies/ruby-2.1.0/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/milap/.rvm/bin
+
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/milap/.rvm/rubies/ruby-2.1.0/bin/ruby
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/milap/.rvm/gems/ruby-2.1.0/gems/rmagick-2.13.2 for inspection.
+Results logged to /home/milap/.rvm/gems/ruby-2.1.0/extensions/x86_64-linux/2.1.0/rmagick-2.13.2/gem_make.out
+
+/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:97:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/installer.rb:15:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:257:in `install'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/cli.rb:10:in `start'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `block in <top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.0/bin/bundle:22:in `<top (required)>'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/home/milap/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `eval'  \n/home/milap/.rvm/gems/ruby-2.1.0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-02-20T19:04:09.673908 #16525]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-02-20T19:04:09.745958 #16525]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-02-20T19:04:10.186537 #16525]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-02-20T19:04:10.187245 #16525]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-20T19:04:10.187784 #16525]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-02-20T19:04:10.188280 #16525]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-20T19:04:10.188772 #16525]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-20T19:04:10.189243 #16525]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-20T19:04:10.189795 #16525]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-02-20T19:04:10.190290 #16525]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-02-20T19:04:10.190768 #16525]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-20T19:04:10.191260 #16525]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-20T19:04:10.191756 #16525]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-02-20T19:04:10.192269 #16525]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-02-20T19:04:10.192790 #16525]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-02-20T19:04:10.193441 #16525]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-02-20T19:04:10.194312 #16525]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-02-20T19:04:10.194947 #16525]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-02-20T19:04:10.195508 #16525]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-20T19:04:10.196061 #16525]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-20T19:04:10.196624 #16525]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-02-20T19:04:10.197183 #16525]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-20T19:04:10.197770 #16525]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-20T19:04:16.166448 #16525]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-02-20T19:04:16.167464 #16525]  INFO -- : 0:  carrierwave (0.9.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/carrierwave-0.9.0.gemspec
+I, [2014-02-20T19:04:16.168183 #16525]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-02-20T19:04:16.168856 #16525]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-02-20T19:04:16.169662 #16525]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-02-20T19:04:16.170318 #16525]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-02-20T19:04:16.170952 #16525]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-02-20T19:04:16.171593 #16525]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-02-20T19:04:16.172194 #16525]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-02-20T19:04:16.172836 #16525]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-02-20T19:04:16.173640 #16525]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-02-20T19:04:16.174333 #16525]  INFO -- : 0:  subexec (0.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-02-20T19:04:16.175073 #16525]  INFO -- : 0:  mini_magick (3.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-02-20T19:04:16.175681 #16525]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-02-20T19:04:16.176390 #16525]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-20T19:04:16.177093 #16525]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-02-20T19:04:16.177755 #16525]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-02-20T19:04:16.178389 #16525]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-02-20T19:04:16.179193 #16525]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-02-20T19:04:43.700414 #16525]  INFO -- : 0:  rmagick (2.13.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rmagick-2.13.2.gemspec
+I, [2014-02-20T19:04:43.717733 #16525]  INFO -- : 0:  sass (3.2.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-3.2.14.gemspec
+I, [2014-02-20T19:04:43.718482 #16525]  INFO -- : 0:  sass-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-02-20T19:04:43.719170 #16525]  INFO -- : 0:  sdoc (0.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-02-20T19:04:43.719817 #16525]  INFO -- : 0:  sqlite3 (1.3.8) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-02-20T19:04:43.720496 #16525]  INFO -- : 0:  turbolinks (2.2.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.1.gemspec
+I, [2014-02-20T19:04:43.721149 #16525]  INFO -- : 0:  uglifier (2.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-03-10T16:42:28.917756 #8135]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-10T16:42:28.950469 #8135]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-10T16:42:29.323280 #8135]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-03-10T16:42:29.324051 #8135]  INFO -- : 0:  multi_json (1.8.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-03-10T16:42:29.324648 #8135]  INFO -- : 0:  atomic (1.1.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.14.gemspec
+I, [2014-03-10T16:42:29.325282 #8135]  INFO -- : 0:  thread_safe (0.1.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-03-10T16:42:29.325860 #8135]  INFO -- : 0:  tzinfo (0.3.38) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-03-10T16:42:29.326403 #8135]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-03-10T16:42:29.326931 #8135]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-10T16:42:29.327465 #8135]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-03-10T16:42:29.328001 #8135]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-10T16:42:29.328549 #8135]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-10T16:42:29.329086 #8135]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-03-10T16:42:29.329678 #8135]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-03-10T16:42:29.330242 #8135]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-03-10T16:42:29.330787 #8135]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-03-10T16:42:29.331328 #8135]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-03-10T16:42:29.331853 #8135]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-03-10T16:42:29.332384 #8135]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-03-10T16:42:29.332930 #8135]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-10T16:42:29.333521 #8135]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-10T16:42:29.334095 #8135]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-03-10T16:42:29.334646 #8135]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-03-10T16:42:34.609007 #8135]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-03-10T16:42:34.609880 #8135]  INFO -- : 0:  carrierwave (0.9.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/carrierwave-0.9.0.gemspec
+I, [2014-03-10T16:42:34.610541 #8135]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-03-10T16:42:34.611165 #8135]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-03-10T16:42:34.611787 #8135]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-03-10T16:42:34.612409 #8135]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-03-10T16:42:34.613022 #8135]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-03-10T16:42:34.613667 #8135]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-03-10T16:42:34.614356 #8135]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-03-10T16:42:34.615017 #8135]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-03-10T16:42:34.615728 #8135]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-03-10T16:42:34.616395 #8135]  INFO -- : 0:  subexec (0.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-03-10T16:42:34.617027 #8135]  INFO -- : 0:  mini_magick (3.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-03-10T16:42:34.617749 #8135]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-03-10T16:42:34.618417 #8135]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-10T16:42:34.619036 #8135]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-03-10T16:42:34.619668 #8135]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-03-10T16:42:34.620301 #8135]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-03-10T16:42:34.620950 #8135]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-03-10T16:42:34.621667 #8135]  INFO -- : 0:  rmagick (2.13.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rmagick-2.13.2.gemspec
+I, [2014-03-10T16:42:34.622363 #8135]  INFO -- : 0:  sass (3.2.14) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-3.2.14.gemspec
+I, [2014-03-10T16:42:34.623041 #8135]  INFO -- : 0:  sass-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-03-10T16:42:34.623696 #8135]  INFO -- : 0:  sdoc (0.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-03-10T16:42:34.624316 #8135]  INFO -- : 0:  sqlite3 (1.3.8) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-03-10T16:42:34.624942 #8135]  INFO -- : 0:  turbolinks (2.2.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.1.gemspec
+I, [2014-03-10T16:42:37.557124 #8135]  INFO -- : 0:  twitter-bootstrap-rails (2.2.8) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/twitter-bootstrap-rails-2.2.8.gemspec
+I, [2014-03-10T16:42:37.557861 #8135]  INFO -- : 0:  uglifier (2.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-03-12T11:30:22.581773 #5494]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-12T11:30:22.605912 #5494]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-12T11:30:23.049590 #5494]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-03-12T11:30:30.125644 #5494]  INFO -- : 0:  multi_json (1.9.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.9.0.gemspec
+I, [2014-03-12T11:30:35.382373 #5494]  INFO -- : 0:  atomic (1.1.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-12T11:30:41.782707 #5494]  INFO -- : 0:  thread_safe (0.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-12T11:30:45.032765 #5494]  INFO -- : 0:  tzinfo (0.3.39) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.39.gemspec
+I, [2014-03-12T11:30:45.033507 #5494]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-03-12T11:30:45.034032 #5494]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-12T11:30:45.034511 #5494]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-03-12T11:30:45.034988 #5494]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-12T11:30:45.035520 #5494]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-12T11:30:45.036018 #5494]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-03-12T11:30:45.036511 #5494]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-03-12T11:30:45.037006 #5494]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-03-12T11:30:45.037595 #5494]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-03-12T11:30:45.038153 #5494]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-03-12T11:30:45.038687 #5494]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-03-12T11:30:45.039216 #5494]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-03-12T11:30:45.039761 #5494]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-12T11:30:45.040326 #5494]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-12T11:30:45.040862 #5494]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-03-12T11:30:45.041427 #5494]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-03-12T11:30:45.041973 #5494]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-03-12T11:30:46.510178 #5494]  INFO -- : 0:  bootstrap-modal-rails (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/bootstrap-modal-rails-2.2.0.gemspec
+I, [2014-03-12T11:30:51.038848 #5494]  INFO -- : 0:  sass (3.3.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-3.3.2.gemspec
+I, [2014-03-12T11:30:53.695654 #5494]  INFO -- : 0:  bootstrap-sass (3.0.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/bootstrap-sass-3.0.2.0.gemspec
+I, [2014-03-12T11:30:53.696333 #5494]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-03-12T11:30:55.958434 #5494]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-03-12T11:30:58.236524 #5494]  INFO -- : 0:  carrierwave (0.10.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/carrierwave-0.10.0.gemspec
+I, [2014-03-12T11:30:58.237279 #5494]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-03-12T11:30:58.237864 #5494]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-03-12T11:30:58.238397 #5494]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-03-12T11:30:58.238923 #5494]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-03-12T11:30:58.239443 #5494]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-03-12T11:30:58.239962 #5494]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-03-12T11:30:58.240492 #5494]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-03-12T11:30:58.241010 #5494]  INFO -- : 0:  subexec (0.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-03-12T11:30:58.241614 #5494]  INFO -- : 0:  mini_magick (3.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-03-12T11:30:58.242165 #5494]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-03-12T11:30:58.242685 #5494]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-12T11:30:58.243208 #5494]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-03-12T11:30:58.243732 #5494]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-03-12T11:30:58.244249 #5494]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-03-12T11:30:58.244786 #5494]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-03-12T11:30:58.245343 #5494]  INFO -- : 0:  rmagick (2.13.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rmagick-2.13.2.gemspec
+I, [2014-03-12T11:30:58.245881 #5494]  INFO -- : 0:  sass-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-03-12T11:30:58.246402 #5494]  INFO -- : 0:  sdoc (0.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-03-12T11:31:08.950891 #5494]  INFO -- : 0:  sqlite3 (1.3.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.9.gemspec
+I, [2014-03-12T11:31:08.951701 #5494]  INFO -- : 0:  turbolinks (2.2.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.1.gemspec
+I, [2014-03-12T11:31:08.952270 #5494]  INFO -- : 0:  uglifier (2.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-03-12T17:54:12.084082 #9822]  INFO -- : 0:  rake (10.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-03-12T17:54:12.125846 #9822]  INFO -- : 0:  i18n (0.6.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-03-12T17:54:12.517965 #9822]  INFO -- : 0:  minitest (4.7.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/minitest-4.7.5.gemspec
+I, [2014-03-12T17:54:12.518706 #9822]  INFO -- : 0:  multi_json (1.9.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.9.0.gemspec
+I, [2014-03-12T17:54:12.519273 #9822]  INFO -- : 0:  atomic (1.1.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/atomic-1.1.15.gemspec
+I, [2014-03-12T17:54:12.519829 #9822]  INFO -- : 0:  thread_safe (0.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.2.0.gemspec
+I, [2014-03-12T17:54:12.520322 #9822]  INFO -- : 0:  tzinfo (0.3.39) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tzinfo-0.3.39.gemspec
+I, [2014-03-12T17:54:12.520819 #9822]  INFO -- : 0:  activesupport (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-03-12T17:54:12.521337 #9822]  INFO -- : 0:  builder (3.1.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/builder-3.1.4.gemspec
+I, [2014-03-12T17:54:12.521960 #9822]  INFO -- : 0:  erubis (2.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/erubis-2.7.0.gemspec
+I, [2014-03-12T17:54:12.522492 #9822]  INFO -- : 0:  rack (1.5.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-12T17:54:12.523001 #9822]  INFO -- : 0:  rack-test (0.6.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-12T17:54:12.523521 #9822]  INFO -- : 0:  actionpack (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-03-12T17:54:12.524048 #9822]  INFO -- : 0:  mime-types (1.25.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-03-12T17:54:12.524583 #9822]  INFO -- : 0:  polyglot (0.3.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/polyglot-0.3.4.gemspec
+I, [2014-03-12T17:54:12.525155 #9822]  INFO -- : 0:  treetop (1.4.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/treetop-1.4.15.gemspec
+I, [2014-03-12T17:54:12.525811 #9822]  INFO -- : 0:  mail (2.5.4) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mail-2.5.4.gemspec
+I, [2014-03-12T17:54:12.526409 #9822]  INFO -- : 0:  actionmailer (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-03-12T17:54:12.526994 #9822]  INFO -- : 0:  activemodel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-03-12T17:54:12.527561 #9822]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-03-12T17:54:12.528133 #9822]  INFO -- : 0:  arel (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/arel-4.0.2.gemspec
+I, [2014-03-12T17:54:12.528701 #9822]  INFO -- : 0:  activerecord (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-03-12T17:54:12.529288 #9822]  INFO -- : 0:  thor (0.18.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/thor-0.18.1.gemspec
+I, [2014-03-12T17:54:12.529881 #9822]  INFO -- : 0:  railties (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/railties-4.0.2.gemspec
+I, [2014-03-12T17:54:12.530474 #9822]  INFO -- : 0:  bootstrap-modal-rails (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/bootstrap-modal-rails-2.2.0.gemspec
+I, [2014-03-12T17:54:12.531015 #9822]  INFO -- : 0:  sass (3.3.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-3.3.2.gemspec
+I, [2014-03-12T17:54:12.531602 #9822]  INFO -- : 0:  bootstrap-sass (3.0.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/bootstrap-sass-3.0.2.0.gemspec
+I, [2014-03-12T17:54:12.532157 #9822]  INFO -- : 0:  bundler (1.5.0) from /home/milap/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-03-12T17:54:18.075568 #9822]  INFO -- : 0:  json (1.8.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/json-1.8.1.gemspec
+I, [2014-03-12T17:54:18.076543 #9822]  INFO -- : 0:  carrierwave (0.10.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/carrierwave-0.10.0.gemspec
+I, [2014-03-12T17:54:18.077147 #9822]  INFO -- : 0:  coffee-script-source (1.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-03-12T17:54:18.077763 #9822]  INFO -- : 0:  execjs (2.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/execjs-2.0.2.gemspec
+I, [2014-03-12T17:54:18.078364 #9822]  INFO -- : 0:  coffee-script (2.2.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-03-12T17:54:18.078934 #9822]  INFO -- : 0:  coffee-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-03-12T17:54:18.079505 #9822]  INFO -- : 0:  hike (1.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/hike-1.2.3.gemspec
+I, [2014-03-12T17:54:18.080058 #9822]  INFO -- : 0:  jbuilder (1.5.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-03-12T17:54:18.080643 #9822]  INFO -- : 0:  jquery-rails (3.1.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-03-12T17:54:18.081288 #9822]  INFO -- : 0:  subexec (0.2.3) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/subexec-0.2.3.gemspec
+I, [2014-03-12T17:54:18.081886 #9822]  INFO -- : 0:  mini_magick (3.7.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mini_magick-3.7.0.gemspec
+I, [2014-03-12T17:54:18.082482 #9822]  INFO -- : 0:  mysql2 (0.3.15) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/mysql2-0.3.15.gemspec
+I, [2014-03-12T17:54:18.083048 #9822]  INFO -- : 0:  tilt (1.4.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-12T17:54:18.083664 #9822]  INFO -- : 0:  sprockets (2.11.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-2.11.0.gemspec
+I, [2014-03-12T17:54:18.084293 #9822]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-03-12T17:54:18.084857 #9822]  INFO -- : 0:  rails (4.0.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rails-4.0.2.gemspec
+I, [2014-03-12T17:54:18.085465 #9822]  INFO -- : 0:  rdoc (4.1.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rdoc-4.1.1.gemspec
+I, [2014-03-12T17:54:18.086059 #9822]  INFO -- : 0:  rmagick (2.13.2) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/rmagick-2.13.2.gemspec
+I, [2014-03-12T17:54:18.086678 #9822]  INFO -- : 0:  sass-rails (4.0.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-03-12T17:54:18.087252 #9822]  INFO -- : 0:  sdoc (0.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sdoc-0.4.0.gemspec
+I, [2014-03-12T17:54:18.087874 #9822]  INFO -- : 0:  sqlite3 (1.3.9) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/sqlite3-1.3.9.gemspec
+I, [2014-03-12T17:54:18.088522 #9822]  INFO -- : 0:  turbolinks (2.2.1) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/turbolinks-2.2.1.gemspec
+I, [2014-03-12T17:54:18.089124 #9822]  INFO -- : 0:  uglifier (2.4.0) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/uglifier-2.4.0.gemspec
+I, [2014-03-12T17:54:19.328337 #9822]  INFO -- : 0:  will_paginate (3.0.5) from /home/milap/.rvm/gems/ruby-2.1.0/specifications/will_paginate-3.0.5.gemspec

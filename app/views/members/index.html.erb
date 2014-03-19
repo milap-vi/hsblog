@@ -1,0 +1,62 @@
+<div id="box">
+                	<h3><%= t("admin.members_list")  %> </h3>
+                	<table width="100%" class="pretty">
+				<thead>
+				<tr>
+		                    	<th width="40px">
+						<a href="#">Edit<img src="/assets/admin/icons/arrow_down_mini.gif" width="16" height="16" align="absmiddle" /></a></th>
+		                        <th>Delete</th>
+							<!--	<th><#%= link_to t("general.member_first_name"), "#", :title=>"First Name" %></th> -->
+
+<th><%= sortable "first_name", @pagesize %></th>
+
+		                        <th><%= link_to t("general.member_last_name"), "#", :title=>"Last Name" %></th>
+		                        <th width="20%"><%= link_to "Username", "#", :title=>"Username" %></th>
+		                        <th width="20%"><%= link_to "Email", "#", :title=>"Email" %></th>
+		                        <th>Created At</th>
+		                 </tr>
+				</thead>
+				<tbody>
+					<% @o_members.each do |member| %>
+					  <tr>
+						<td class="a-center">
+							<%#= link_to member.id, edit_member_path(member), :title=>"Edit Member" %>
+						    <%= link_to(image_tag("admin/icons/user_edit.png", :size=>"16x16", :title=>"Edit Members", :alt=>"Edit Members"), edit_member_path(member), :title=>"Edit Members", :alt=>"Edit Members")  %>
+						</td>
+						<td><%= link_to image_tag("admin/icons/user_delete.png", :size=>"16x16", :title=>"Delete Members", :alt=>"Delete Members"), member, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+						<td><%= member.first_name %></td>
+					    <td><%= member.last_name %></td>
+					    <td><%= member.username %></td>
+					    <td><%= member.email %></td>
+						<td><%= member.created_at.to_s(:date_month_year)  %></td>
+					  </tr>
+					<% end %>                          
+				</tbody>
+			</table>
+
+                    <div id="pager">
+                    	Page <a href="#"><img src="/assets/admin/icons/arrow_left.gif" width="16" height="16" /></a> 
+                    	<input size="1" value="1" type="text" name="page" id="page" /> 
+                    	<a href="#"><img src="/assets/admin/icons/arrow_right.gif" width="16" height="16" /></a>of 42
+                    pages | View 
+								<%= select_tag(:pagesize, options_for_select([['2', 2], ['5', 5], ['7', 7]]), 'onchange'=>'alert(111)') %>
+                    per page | Total <strong>420</strong> records found
+                    </div>
+                </div>
+                <br />
+
+<%= will_paginate @o_members %>
+
+
+<!--
+<%#= link_to 'Back', members_path %>
+    <td><%# link_to 'Show', member_path(member) %></td>
+    <td><%# link_to 'Edit', edit_member_path(member) %></td>
+    <td><%# link_to 'Destroy', member_path(member),
+                    method: :delete, data: { confirm: 'Are you sure?' } %></td>
+-->
+ 
+
+
+
+

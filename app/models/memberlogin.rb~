@@ -1,0 +1,8 @@
+class Memberlogin < Member
+
+attr_accessor :username, :password
+
+
+
+
+end

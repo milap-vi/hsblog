@@ -1,0 +1,27 @@
+	<%#= form_tag(:hsadmin,  name: "frmAdminLogin",  id: "form", remote: true)  %>
+
+		<%#= form_for @admin, html: {action: "/admin/login", id: "form", remote: true}   do |m| %>
+
+
+
+
+
+
+<%= @admin.each  do |m| %>
+
+			<#%  if @ssHasMessage.length > 0  %>
+			<label>&nbsp;</label><span class="red"><%= @ssHasMessage %></span>
+			<br/><br/>
+			<#% end  %>
+            <label for="username">Username: </label> 
+			<%= text_field "", "username", :tabindex => "1", :value => params['username']  %>
+			<br>
+            <label for="password">Password : </label> 
+			<%= password_field "", "password", :tabindex => "1", :value => params['username']  %>
+			<br>
+            <label for="">&nbsp;</label>
+
+	<%= submit_tag  "Sign In", :tabindex => "Sign In", :alt => "1", :title => "Sign In", :name => "ssSubmit", :id => "ssSubmit", :style => "cursor:pointer"  %>
+	<br>					
+	</form>
+		<%  end %>

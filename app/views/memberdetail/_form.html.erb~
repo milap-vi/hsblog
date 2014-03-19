@@ -1,0 +1,57 @@
+
+<%= @member.errors.inspect %>
+<%= @memberdetails.errors.inspect %>
+
+<div id="box">
+	<h3 id="adduser">
+	<%=  params[:controller]+"/"+params[:action]  == "members/new" ? "Add " : "Edit "  %>User</h3>
+	<%#######= form_for @member, url: {action: "update"}, html: {id: "form"}  do |m| %>
+	<%#= form_for @member, html: {id: "form"}   do |m| %>
+
+	<%= form_for(@member, :url => {:action => @memberdetail_index}, html: {id: "form"}) do |m|%>
+
+		<fieldset id="personal">
+			
+				<%= m.label  :first_name, :id => "lblFirstName" %>
+				<%= m.text_field :first_name %>
+				<% if @member.errors[:first_name].any? %>
+					<label>&nbsp;</label><%= @member.errors[:first_name].first %>
+				<% end %>
+				<br />
+
+				<label for="lastname">Last Name </label> 
+				<%= m.text_field :last_name %>
+				<% if @member.errors[:last_name].any? %>
+					<label>&nbsp;</label><%= @member.errors[:last_name].first %>
+				<% end %>
+				<br />
+
+				<%= m.label :email %>
+				<%= m.text_field :email %>
+				<% if @member.errors[:email].any? %>
+			 		<label>&nbsp;</label><%= @member.errors[:email].first %>
+		       	<% end %>
+                <br />
+
+
+				<%= m.fields_for @memberdetails do |mb| %>
+					<%= mb.label :address %>
+					<%= mb.text_field :address %>
+					<% if @memberdetails.errors[:address].any? %>
+				 		<label>&nbsp;</label><%= @memberdetails.errors[:address].first %>
+				   	<% end %>
+		            <br />					
+				<% end %>			
+
+				<label>&nbsp;</label>
+				<%= m.submit %>
+				<%= link_to 'Back', members_path %>
+		</fieldset>                     
+	<% end %>
+	</form>
+</div>
+
+
+
+
+

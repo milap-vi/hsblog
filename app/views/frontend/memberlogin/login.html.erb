@@ -1,0 +1,34 @@
+<%#= @member.errors.inspect %>
+<div id="box">
+	<h3 id="adduser">
+	<%=  "Members Login"  %></h3>
+	<%# form_for ("members_login", :url => { :controller => "customers", :action => "create" }, :html => { :multipart => true, :method => :put })  do |f|  %>
+<%= form_tag(:members_login,  name: "frmMemberLogin",  id: "form")  %>
+						<%  if @ssMessage != ""  %>
+						<label>&nbsp;</label><span class="red"><%= @ssMessage %></span>
+						<br/><br/>
+						<% end  %>
+                        <label for="username">Username: </label> 
+						<%= text_field "member", "username", :tabindex => "1"  %>
+						<% if @member.errors[:username].any? %>						
+						<label>&nbsp;</label><span class="red"><%= @member.errors[:username].first %></span>
+						<br>
+						<% end %>
+						<br>
+                        <label for="password">Password : </label> 
+						<%= password_field "member", "password", :tabindex => "1"  %>
+						<% if @member.errors[:password].any? %>						
+						<label>&nbsp;</label><span class="red"><%= @member.errors[:password].first %></span>
+						<br>
+						<% end %>
+						<br>
+                        <label for="">&nbsp;</label> 
+						<%= submit_tag  "Sign In", :tabindex => "Sign In", :alt => "1", :title => "Sign In", :name => "ssSubmit", :id => "ssSubmit", :style => "cursor:pointer"  %>
+                        <br>
+	</form>
+</div>
+
+
+
+
+
