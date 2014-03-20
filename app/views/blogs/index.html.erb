@@ -1,34 +1,27 @@
-<#%=  debug @blogs %>
-
-
-
+<%#= raise debug @blogsmember.inspect %>
 <div id="box">
 <h3>Blogs List </h3>
-
 <table>
   <thead>
+	<%	if flash[:notice] != nil  %>
     <tr>
-      <th></th>
-      <th></th>
+      <th colspan="4"><%= flash[:notice] %></th>
+    </tr>
+	<%	end  %>
+    <tr>
+      <th>Subject</th>
+      <th>Created By</th>
       <th></th>
       <th></th>
     </tr>
   </thead>
-
   <tbody>
-    <% @blogs.each do |m| %>
-	
-	
-
+    <% @blogsmember.each do |b| %>
       <tr>
-        <td><%= m.username %></td>
-        <td><%= m.blogs.first.subject %>
-
-<#%=  debug  m.blogs.inspect %>
-</td>
-        <td><%= link_to 'Show', m %></td>
-        <td><%= link_to 'Edit', edit_blog_path(m) %></td>
-        <td><%= link_to 'Destroy', m, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= b.subject %></td>
+        <td><%= b.member.username %></td>       
+        <td><%= link_to 'Edit', edit_blog_path(b) %></td>
+        <td><%= link_to 'Destroy', b, method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>
     <% end %>
   </tbody>

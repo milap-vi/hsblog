@@ -1,8 +1,23 @@
 class Admin::AdminController < ApplicationController
 
   def login
-#	@admin = Admin.new
-	@admin = Member.new
+	@admin = Admin.new
+	
+
+	
+
+#	return render text: @admin.errors.inspect
+
+
+
+
+	if params['ssSubmit'] != nil
+		@admin = Admin.new(login_params)
+		@admin.valid?
+	else
+		@admin = Admin.new
+	end
+
 
 =begin
 	@ssHasMessage = {}

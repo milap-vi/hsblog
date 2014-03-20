@@ -6,8 +6,19 @@ class BlogsController < ApplicationController
   def index
 #   @blogssss = Blog.all
 
-	@blogs = Member.joins(:blogs)
+#	@blogs = Member.joins(:blogs)
+#	@blogs = Member.select("username, email").joins(:blogs)
 
+	#following one not working
+#	@blogs = Member.select('members.id','username', 'email').includes(:blogs => [:subject, :content])
+
+
+	
+ #   @blogs = Member.joins(:blogs).select(:username, :content)
+
+
+	@blogsmember = Blog.joins(:member)
+#	return render text: [@blogs.first.member.inspect ]
 
 #	@blogs = Member.includes(:blogs)	
 #	@blogs = Blog.includes(:members)
@@ -22,6 +33,7 @@ class BlogsController < ApplicationController
   # GET /blogs/1
   # GET /blogs/1.json
   def show
+	@blog = Blog.find(params[:id])
   end
 
   # GET /blogs/new
@@ -40,7 +52,7 @@ class BlogsController < ApplicationController
 
     respond_to do |format|
       if @blog.save
-        format.html { redirect_to @blog, notice: 'Blog was successfully created.' }
+        format.html { redirect_to blogs_path, notice: 'Blog was successfully created.' }
         format.json { render action: 'show', status: :created, location: @blog }
       else
         format.html { render action: 'new' }
@@ -58,7 +70,7 @@ class BlogsController < ApplicationController
 
 
       if @blog.update(blog_params)
-        format.html { redirect_to @blog, notice: 'Blog was successfully updated.' }
+        format.html { redirect_to blogs_path, notice: 'Blog was successfully updated.' }
         format.json { head :no_content }
       else
         format.html { render action: 'edit' }

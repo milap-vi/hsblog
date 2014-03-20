@@ -23,8 +23,8 @@
                         </ul>
                     </li>
 -->
-                  <li>
-			<h3><%= link_to t("admin.members"), "/members", :title=>t("admin.members"),  :class=>"user" %></h3>
+                 <li> <li>
+			<h3><%= link_to t("admin.members"), members_path, :title=>t("admin.members"),  :class=>"user" %></h3>
 			<ul>
 				<li><%= link_to "Add Member", new_member_path, :title=>"Add Member",  :class=>"useradd" %></li>
 			<!--
@@ -34,8 +34,11 @@
 			-->
             </ul>
 			<h3><%= link_to "Blogs", blogs_path, :title=>"Blogs",  :class=>"user" %></h3>
+			<ul>
 				<li><%= link_to "Add Blog", new_blog_path, :title=>"Add Blog",  :class=>"useradd" %></li>
+            </ul>
+			<h3><%= link_to "Save Nested Form", new_memberdetail_path, :title=>"Save and Validations Nested(Multiple) Form With Single Object",  :class=>"user" %></h3>                    
+			<h3><%= link_to "Ajax login", :hsadmin, :title=>"Ajax Functions login",  :class=>"user" %></h3>                    
 
-                    </li>
 	</ul>       
 

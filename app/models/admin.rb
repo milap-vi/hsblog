@@ -1,6 +1,18 @@
 class Admin < ActiveRecord::Base
 
 
+validates :username,
+	presence: 
+		{
+		:message => "Username is required"
+		}
+
+validates :password,
+	presence: 
+		{
+		:message => "Password is required"
+		}
+
 =begin
 	def check_adminlogin_isvalid(requestparameter)
 		ssHasErrorMessage = {}
