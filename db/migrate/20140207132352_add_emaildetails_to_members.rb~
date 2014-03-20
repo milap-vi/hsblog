@@ -1,5 +1,0 @@
-class AddEmaildetailsToMembers < ActiveRecord::Migration
-  def change
-    add_column :members, :email, :string, :before => :first_name
-  end
-end

@@ -1,9 +1,0 @@
-class RenameBlogIdMember < ActiveRecord::Migration
-  def change
-  end
-
-	def self.up
-	rename_column :blogs, :id_member, :member_id
-	end
-
-end
